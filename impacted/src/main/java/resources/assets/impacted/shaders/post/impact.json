@@ -1,0 +1,11 @@
+
+{
+  "targets": ["main"],
+  "passes": [
+    {
+      "name": "impact",
+      "intarget": "main",
+      "outtarget": "swap"
+    }
+  ]
+}
